@@ -17,5 +17,6 @@ A machine learning web application that classifies news articles as "Real" or "F
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/MAR-3050/fake-news-detector.git
+   git clone https://github.com/yourusername/fake-news-detector.git
    cd fake-news-detector
+
